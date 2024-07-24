@@ -1,4 +1,4 @@
- dashbord link - ![Screenshot 2024-06-02 164141](https://github.com/Sujaljoinwal/pizza-sales----SQL/assets/159111450/5c047a08-8009-4eaf-bdc0-855d475869ca)
+
 
 Basic 
 Question 1 - Retrieve the total number of orders placed.
